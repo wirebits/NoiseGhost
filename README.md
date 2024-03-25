@@ -36,3 +36,6 @@ python NoiseGhost.py -e -i INPUT.wav -m "MESSAGE" -o OUTPUT
 ```
 python NoiseGhost.py -d -i OUTPUT.wav
 ```
+# Keep In Mind
+- Larger the size of the WAV file, it takes more time to encode or decode.
+- Large size WAV file encode long messages and less distortion which means the quality of the WAV file remains good.
