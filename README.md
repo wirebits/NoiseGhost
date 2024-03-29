@@ -11,15 +11,9 @@ A tool which hides the messages in the audio using LSB method.
 - To use this tool, create a folder and put this tool and mp3 file in it.
 - Open Terminal.
 - Type the following command and press enter :
-
-  Windows
+  
   ```
   MP3ToWAVConverter.exe INPUT.mp3 OUTPUT.wav
-  ```
-  
-  Linux
-  ```
-  MP3ToWAVConverter INPUT.mp3 OUTPUT.wav
   ```
 - Replace `INPUT` with actual file name of the mp3 file and `OUTPUT` with actual file name of wav file.
  
