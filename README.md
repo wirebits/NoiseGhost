@@ -7,14 +7,21 @@ A tool which hides the messages in the audio using LSB method.
 
 # MP3 To WAV CLI Converter
 - It is a small command-line tool so that it converts mp3 files into wav files.
-- It can download from [here](https://github.com/wirebits/NoiseGhost/releases/download/v1.0.0/MP3toWAVConverter.exe).
-- It is about 65 mb file.
+- It can download for :
+  1. Windows - [here](https://github.com/wirebits/NoiseGhost/releases/download/v1.0.0/MP3toWAVConverter.exe)
+  2. Linux - [here](https://github.com/wirebits/NoiseGhost/releases/download/v1.0.0/MP3toWAVConverter)
 - To use this tool, create a folder and put this tool and mp3 file in it.
 - Open Terminal.
 - Type the following command and press enter :
-  
+
+  Windows
   ```
   MP3ToWAVConverter.exe INPUT.mp3 OUTPUT.wav
+  ```
+  
+  Linux
+  ```
+  MP3ToWAVConverter INPUT.mp3 OUTPUT.wav
   ```
 - Replace `INPUT` with actual file name of the mp3 file and `OUTPUT` with actual file name of wav file.
  
